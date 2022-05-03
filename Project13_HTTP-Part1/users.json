@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Pintea",
+    "age": 42,
+    "email": "alex@exemple.com"
+  },
+  {
+    "id": 2,
+    "name": "Ana Pintea",
+    "age": 38,
+    "email": "ana@exemple.com"
+  },
+  {
+    "id": 3,
+    "name": "Martin Pop",
+    "age": 24,
+    "email": "martin@exemple.com"
+  }
+]
